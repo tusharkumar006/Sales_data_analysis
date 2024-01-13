@@ -1,4 +1,4 @@
-##Sales Data Analysis
+**Sales Data Analysis**
 
 This project utilizes **Python** and popular data analysis libraries such as **Seaborn, Matplotlib, Pandas, and NumPy** to perform an in-depth analysis of  sales data. 
 The goal is to gain valuable insights into **sales patterns, customer behavior, and product performance** during the festive season. 
